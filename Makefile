@@ -1,8 +1,6 @@
 #
-#Name: Ahmed El Shantaly
-#ID: 0836885
+#Author: Ahmed El Shantaly
 #Date: March 13, 2015
-#Assignment 3
 #
 CC = gcc
 CFLAGS  = -Wall -ansi
